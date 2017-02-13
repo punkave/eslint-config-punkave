@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-punkave",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "P'unk Ave",
   "bugs": {
