@@ -1,8 +1,12 @@
 {
   "name": "eslint-config-punkave",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "P'unk Ave",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:punkave/eslint-config-punkave.git"
+  },
   "bugs": {
     "url": "https://github.com/punkave/eslint-config-punkave/issues"
   },
