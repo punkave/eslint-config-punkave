@@ -11,7 +11,10 @@
     "url": "https://github.com/punkave/eslint-config-punkave/issues"
   },
   "homepage": "https://github.com/punkave/eslint-config-punkave#readme",
-  "devDependencies": {
-    "standard": "^8.6.0"
+  "dependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-promise": "^1.0.7",
+    "eslint-config-standard": "^7.0.1",
+    "eslint-plugin-standard": "^2.1.1"
   }
 }
