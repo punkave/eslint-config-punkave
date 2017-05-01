@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-punkave",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "index.js",
   "author": "P'unk Ave",
   "repository": {
@@ -11,9 +11,6 @@
     "url": "https://github.com/punkave/eslint-config-punkave/issues"
   },
   "homepage": "https://github.com/punkave/eslint-config-punkave#readme",
-  "peerDependencies": {
-    "eslint-config-standard": "^7.0.1"
-  },
   "dependencies": {
     "eslint": "^3.17.1"
   }
