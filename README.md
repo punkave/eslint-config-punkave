@@ -1,11 +1,9 @@
 ## Install
 
 ```bash
-npm install eslint
-npm install eslint-plugin-promise eslint-plugin-standard eslint-plugin-react
-npm install eslint-config-standard
-npm install eslint-config-punkave
+npm install eslint eslint-plugin-promise eslint-plugin-standard eslint-plugin-react eslint-config-standard eslint-config-punkave --save-dev
 ```
+
 Add the following to `.eslintrc` in root directory of project.
 
 ```json
