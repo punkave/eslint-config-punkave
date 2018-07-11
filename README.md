@@ -5,7 +5,8 @@ This module is standard in all P'unk Avenue [ApostropheCMS](https://apostrophecm
 In the project root directory run:
 
 ```bash
-npm install eslint eslint-plugin-promise eslint-plugin-standard eslint-plugin-react eslint-config-standard eslint-config-punkave --save-dev
+npm install eslint eslint-plugin-promise     eslint-plugin-import
+eslint-plugin-standard eslint-plugin-react eslint-config-standard eslint-config-punkave --save-dev
 ```
 
 Also, add the following to `.eslintrc` in the root directory:
