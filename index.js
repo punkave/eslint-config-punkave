@@ -3,6 +3,7 @@ module.exports = {
   'rules': {
     'semi': ['error', 'always'],
     'no-unused-vars': ['error', { 'varsIgnorePattern': 'apos', 'args': 'none', 'ignoreRestSiblings': true }],
-    'import/no-extraneous-dependencies': 1
+    'import/no-extraneous-dependencies': 1,
+    'no-var': 'error'
   }
 };
