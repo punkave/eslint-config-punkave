@@ -1,6 +1,6 @@
 ## Install
 
-This module is standard in all P'unk Avenue apostrophe projects. It provides warnings of potential bugs and errors in your code. It is recommended for developers of all skill levels working with Apostrophe.
+This module is standard in all P'unk Avenue [ApostropheCMS](https://apostrophecms.org) projects. It provides warnings of potential bugs and errors in your code. It is recommended for developers of all skill levels working with ApostropheCMS.
 
 In the project root directory run:
 
